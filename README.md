@@ -1,5 +1,5 @@
 # Sign-Language-Mnist
-This project builds and deploys a deep learning model capable of recognizing American Sign Language (ASL) alphabets (A–Z) using a Convolutional Neural Network (CNN) trained on the Sign Language MNIST dataset.  The model is trained in Python using TensorFlow/Keras, and deployed as an interactive web app using streamlit.
+This project builds and deploys a deep learning model capable of recognizing American Sign Language (ASL) alphabets (A–Z) using a Convolutional Neural Network (CNN) trained on the Sign Language MNIST dataset.  The model is trained in Python using TensorFlow/Keras, and deployed as an interactive web app using streamlit.Users can upload a hand-sign image, and the app will predict the corresponding alphabet in real time.After training, the model is saved as an .h5 file and deployed through a Streamlit web application, allowing users to upload an image and receive real-time predictions of the corresponding alphabet. This project demonstrates the integration of deep learning for image classification with an interactive user interface, providing a practical tool for gesture recognition and helping bridge communication gaps for the hearing-impaired community.
 
 🚀 Features
 
