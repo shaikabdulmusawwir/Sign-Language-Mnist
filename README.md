@@ -112,7 +112,7 @@ pillow
 🧑‍💻 Author
 
 Name: Abdul Musawwir
-GitHub: @shaikabdulmusawwir
+GitHub: [@shaikabdulmusawwir](github.com/shaikabdulmusawwir)
 
 Email: abdulmusawwir2003@gmail.com
 
