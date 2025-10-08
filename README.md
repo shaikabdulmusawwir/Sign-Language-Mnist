@@ -112,9 +112,9 @@ pillow
 🧑‍💻 Author
 
 Name: Abdul Musawwir
-GitHub: @your-username
+GitHub: @shaikabdulmusawwir
 
-Email: your.email@example.com
+Email: abdulmusawwir2003@gmail.com
 
 ⭐ Contributing
 
